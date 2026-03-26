@@ -10,28 +10,33 @@ Identify areas with high demand and low competition
 Perform spatial and drive-time analysis
 Build a scoring model for location selection
 Provide actionable recommendations
+
 🔹 Data Sources
 U.S. Census demographic data store locations
 Competitor locations
 Geographic boundary data (ZIP codes / shapefiles)
 Additional datasets (universities, shopping centers, etc.)
+
 🔹 Tools & Technologies
 Python (Pandas, NumPy, Scikit-learn)
 GIS tools (QGIS / ArcGIS)
 SQL 
 Jupyter Notebook
+
 🔹 Methodology
 Data cleaning and preprocessing
 Feature engineering
 Spatial analysis (mapping, distance, catchment zones)
 Scoring model based on multiple factors
 Visualization and dashboard creation
+
 🔹 Key Features
 Heatmaps of high-demand regions
 Drive-time analysis around stores
 Competitor density mapping
 Location scoring model
 Interactive Power BI dashboard
+
 🔹 Results & Insights
 Identified high-potential ZIP codes for expansion
 Found underserved regions with strong demand
